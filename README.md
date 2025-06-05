@@ -25,8 +25,5 @@ The input coordinates for testing are still included in this models, so there ar
 1. Make the main.py able to take input coordinates from user.
 2. The main algorithm could take a long time to run (approx. 1 minute), so optimization is still needed.
 
-# Contact
-Nikolaus Vico Cristianto (081938322829)
-
 # UPDATE DECEMBER 2024
 The only needed file is the main.py, now the main.py includes all the algorithms needed for producing the routes.
